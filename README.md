@@ -31,14 +31,14 @@
 
 - 💬 Ask me about **C#**
 
-- 📫 How to reach me **ahmedkamalyoussef4@gmail.com**
+- 📫 How to reach me **an229314@gmail.com**
 :thinking: I’m currently open for a new `job opportunity`. This is [MY resume](https://drive.google.com/file/d/1R1ayMN-aUx0AOwLkll9gZhuAZfLFbNw3/view?usp=sharing).
 
 
 <h3 align="left"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%">
  Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ahmed-kamal-b51621277/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kemo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahmed-nasser-128a1b309/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kemo" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100028844448220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kemo" height="30" width="40" /></a>
 
  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=5%> Programming languages & Tools
