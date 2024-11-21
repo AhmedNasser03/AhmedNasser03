@@ -38,8 +38,8 @@
 <h3 align="left"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%">
  Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ahmed-nasser-128a1b309/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kemo" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100028844448220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kemo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahmed-nasser-128a1b309/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nasser" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100046084903480" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Nasser" height="30" width="40" /></a>
 
  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=5%> Programming languages & Tools
  <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%>
