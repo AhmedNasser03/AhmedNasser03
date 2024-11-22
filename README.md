@@ -76,33 +76,20 @@
 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
                 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
-
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
-
-  </a>
-
   
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
   </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-<img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="50" height="50" />  </a>
-  
+
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
+  
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".net" width="40" height="40"/>
   </a>
   
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blazor/blazor-original.svg" alt="blazor" width="40" height="40"/>
-  </a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
   <img src="https://clipart.info/images/ccovers/1499955337microsoft-sql-server-logo-png.png" alt="sql" width="40" height="40"/>
 </a>
@@ -110,17 +97,7 @@
   <a href="https://dotnet.microsoft.com/apps/aspnet/mvc" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/9141961?s=200&v=4" alt="mvc" width="40" height="40"/>
   </a>
-<!-- <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img src="https://th.bing.com/th/id/R.c940e427945a4d75c296f346cfb78cb7?rik=oxEpM63SpT0ClQ&pid=ImgRaw&r=0" alt="flutter" width="40" height="40"/>
-</a> -->
 
-<a href="https://dart.dev/" target="_blank" rel="noreferrer">
-    <img src="https://th.bing.com/th/id/R.c979b430b2da155059ebc0a22b0a26ac?rik=KxOp3KkIE4L7uw&pid=ImgRaw&r=0" alt="dart" width="40" height="40"/>
-</a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node.js" width="40" height="40"/>
-  </a>
- 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
@@ -131,11 +108,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="40" height="40"/>
   </a>
 
-
-
-
-
-  
   <a href="https://codeforces.com/" target="_blank" rel="noreferrer">
     <img src="https://play-lh.googleusercontent.com/zaldniLc2XTBhNlCDR4hcD5bcRYHZ56_lO0yA2Qu-cADShy1_HDWrICSvv0EPTX79WY" alt="codeforces" width="40" height="40"/>
   </a>
@@ -143,10 +115,6 @@
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode Icon" width="50" height="50" style="animation: spin 4s linear infinite;" />
-
-
-
-
   
   <a href="https://stackoverflow.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stackoverflow/stackoverflow-original.svg" alt="stackoverflow" width="40" height="40"/>
