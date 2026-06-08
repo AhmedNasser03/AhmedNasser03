@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning .NET
 - 🌱 I’m currently learning **React js**
-- 🌱 I’m currently learning Desktop Applications
+- 🌱 I’m currently learning **AI Automation**
 
 - 💬 Ask me about **C#**
 
@@ -77,7 +77,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".net" width="40" height="40"/>
     </a>
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-        <img src="https://clipart.info/images/ccovers/1499955337microsoft-sql-server-logo-png.png" alt="sql" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="sql" width="40" height="40"/>
     </a>
     <a href="https://dotnet.microsoft.com/apps/aspnet/mvc" target="_blank" rel="noreferrer">
         <img src="https://avatars.githubusercontent.com/u/9141961?s=200&v=4" alt="mvc" width="40" height="40"/>
@@ -102,7 +102,7 @@
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     </a>
     <a href="https://github.com/" target="_blank" rel="noreferrer">
-        <img src="https://static-00.iconduck.com/assets.00/brand-github-icon-1024x1024-w6a261tr.png" alt="github" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
     </a>
     <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
